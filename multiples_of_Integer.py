@@ -6,4 +6,3 @@ def multiples(n):
     else:
         print ("The number is out of range")
 '''Calling the function with a sample integer, n =5'''
-multiples(6)
